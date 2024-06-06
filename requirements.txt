@@ -1,6 +1,6 @@
-Flask>=3.0.3
+Flask==3.0.3
 gunicorn>=22,<23
-scikit-learn>=1.2.2
+scikit-learn==1.2.2
 
 # Uncomment these lines to use a Postgres database. Both are needed, since in production
 # (which uses Linux) we want to install from source, so that security updates from the
