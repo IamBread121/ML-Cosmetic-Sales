@@ -1,4 +1,4 @@
-Flask==3.0.2
+Flask
 gunicorn>=22,<23
 scikit-learn==1.2.2
 
